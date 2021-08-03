@@ -3,8 +3,8 @@
 <p></p>
 
 ### Connect with me:
-[<img align="left" alt="BishalHona | LinkedIn" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" />][linkedin]
-[<img align="left" alt="BishalHona | Instagram" width="22px" margin-top="2px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />][instagram]
+[<img align="left" alt="BishalHona | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" />][linkedin]
+[<img align="left" alt="BishalHona | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" />][instagram]
 
 [instagram]: https://instagram.com/bishalxhona
 [linkedin]: https://www.linkedin.com/in/bishal-hona-7610a21b7/
