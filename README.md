@@ -4,7 +4,7 @@
 
 ### Connect with me:
 [<img align="left" alt="BishalHona | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BishalHona | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BishalHona | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />][instagram]
 
 [instagram]: https://instagram.com/bishalxhona
 [linkedin]: https://www.linkedin.com/in/bishal-hona-7610a21b7/
