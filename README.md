@@ -3,7 +3,7 @@
 <p></p>
 
 ### Connect with me:
-[<img align="left" alt="BishalHona | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-2-512.png" />][linkedin]
+[<img align="left" alt="BishalHona | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" />][linkedin]
 [<img align="left" alt="BishalHona | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />][instagram]
 
 [instagram]: https://instagram.com/bishalxhona
